@@ -1,0 +1,11 @@
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\obj\Debug\DapperDemo.csprojAssemblyReference.cache
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\bin\Debug\DapperDemo.exe.config
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\bin\Debug\DapperDemo.exe
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\bin\Debug\DapperDemo.pdb
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\bin\Debug\Dapper.dll
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\bin\Debug\Dapper.pdb
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\bin\Debug\Dapper.xml
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\obj\Debug\DapperDemo.csproj.CopyComplete
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\obj\Debug\DapperDemo.exe
+C:\Users\maria oliveros\Downloads\Dapper-Demo-ConsoleApp-master\Dapper-Demo-ConsoleApp-master\DapperDemo\obj\Debug\DapperDemo.pdb
